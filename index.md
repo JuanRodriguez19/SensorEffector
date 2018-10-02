@@ -1,5 +1,5 @@
 October 02 2018 -
-Posted Proof of Payment
+Posted Proof of Payment https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Proof%20of%20Payment.pdf
 
 September 25 2018 -
 Created Budget
