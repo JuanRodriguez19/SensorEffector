@@ -11,4 +11,4 @@ September 11 2018 -
 Created <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Proposal.pdf ">Proposal </a>
 
 September 04 2018 - 
-Repository created
+Created Repository 
