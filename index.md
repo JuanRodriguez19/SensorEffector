@@ -10,5 +10,5 @@ Created Project Schedule
 September 11 2018 -
 Created Proposal
 
-September 4 2018 - 
+September 04 2018 - 
 Repository created
