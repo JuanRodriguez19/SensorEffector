@@ -1,5 +1,5 @@
 October 02 2018 -
-Posted Proof of Payment.pdf
+Posted Proof of Payment
 
 September 25 2018 -
 Created Budget
