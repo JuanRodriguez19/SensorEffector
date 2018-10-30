@@ -15,7 +15,7 @@ An issue that occured is that my sensor is currently assigned to address(29) whi
 I attemped to rewire so that I can meet the correct conditions for the address, however it has not worked yet so addtional work is required.
 
 Finished Fritzing
-Posted <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/fritzing.pdf"> Fritzing Diagram </a>
+Posted <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_bb.png"> Fritzing Diagram </a>
 
 
 
