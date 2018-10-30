@@ -1,6 +1,10 @@
 # SensorEffector
 CAP1188 8-channel Capacitive Touch (0x2A).
 
+October 30 2018 -
+Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">TouchSensorPCB </a>
+
+
 October 23 2018 -
 Finished Soldering my sensor on the breadboard.
 Wired the Raspberry Pi to the sensor and got it to display the address through VNC viewer.
