@@ -2,7 +2,8 @@
 CAP1188 8-channel Capacitive Touch (0x2A).
 
 October 30 2018 -
-Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png">TouchSensorPCB </a>
+Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png">TouchSensorPCB </a>.
+
 In terms of my budget, overall not much has changed in terms of having to order more parts or return things. One thing however was that for my wiring of the sensor and the Raspberry Pi, I required 3 200k ohm resistors in the circuit in order to get the correct address for the sensor. These items were taken from my school toolkit which I had with me before the semester.
 
 
