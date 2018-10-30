@@ -2,7 +2,7 @@
 CAP1188 8-channel Capacitive Touch (0x2A).
 
 October 30 2018 -
-Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">TouchSensorPCB </a>
+Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png">TouchSensorPCB </a>
 
 
 October 23 2018 -
