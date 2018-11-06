@@ -1,3 +1,7 @@
+November 6 2018 - 
+Today is the PCB soldered milestone. In terms of my <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Power%20Switch%20Project%20Schedule.pdf ">Project Schedule </a> I am a bit behind from where I should be as I was not able to solder my whole board due to recieving the board later in the class.
+I have to solder pieces of wire to the vias and thats about it. When it comes to my budget, nothing has changed as I have everything I need for now. Things may change in the future. I will finish the soldering on thursday.
+
 October 30 2018 -
 Finished my design for the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png">TouchSensorPCB </a>.
 
