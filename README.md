@@ -4,7 +4,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 November 6 2018 - 
 Today is the PCB soldered milestone. In terms of my <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Power%20Switch%20Project%20Schedule.pdf ">Project Schedule </a> I am a bit behind from where I should be as I was not able to solder my whole board. This was due to not having the PCB made in time.
 All I have left to do is solder pieces of wire to the vias and thats about it. When it comes to my <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">Budget </a>, nothing has changed as I have everything I need for now. Things may change in the future. I will finish the soldering on thursday in the prototype lab.
-Once it seems it have everything operational, I need to check if it can read my sensor fr next weeks milestone.
+Once it seems it have everything operational, I need to check if it can read my sensor for next weeks milestone.
 <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PCB.PNG">PCB Board with sensor</a>
 
 October 30 2018 -
