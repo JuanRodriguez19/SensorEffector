@@ -1,6 +1,6 @@
 November 13 2018 -
 Today is the powerup milestone. I managed to get my correct address for the touch sensor being 2a and displayed it on the screen. In order to attach my circuit to the raspberry pi, I required another 20 pin socket to create more elevation as the board was too long and interfered with the usb hubs on the pi. I need to make a slight adjustment to my <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">Budget </a> for the inclusion of the addtional socket. In terms of actually getting to read something from my sensor, I ran into multiple issues resulting in me not being able to have it done by the end of class. I will need to work on it later this week as I am now behind. I am now following the
-<href ="https://learn.adafruit.com/adafruit-cap1188-breakout/python-circuitpython"> Adafruit site </a> which has code that should work with the pi. It requires the use of python which I am not familiar with at all so it will require some time to get working.<br>
+<a href ="https://learn.adafruit.com/adafruit-cap1188-breakout/python-circuitpython#"> Adafruit site </a> which has code that should work with the pi. It requires the use of python which I am not familiar with at all so it will require some time to get working.<br>
 ![Sensor Address](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Capture.PNG)<br>
 <br>![PCB Hardware](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/IMG_0910.jpg)<br>
 
