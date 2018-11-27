@@ -1,3 +1,7 @@
+Novemeber 27 2018 -
+Today is the powerpoint presentation for the sensor effector project. I was 6th to present and overall I think I did pretty well in terms of speaking clearly and having slides with appropriate amounts of information. My <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SensorEffector Project.pptx">presentation </a> took around 7 minutes and I am now currently on track for my  <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Power%20Switch%20Project%20Schedule.pdf ">Schedule </a>.
+
+
 November 20 2018 - 
 Today is the Enclosure milestone. I starting thinking of ideas around how I would design my case for the raspberry pi. I already had a case that came with my pi, but I decided to make another one that will suit my sensor in a safer manner. I used the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Pi2CaseX6.pdf">CoralDRAW software </a>. I just need to actual get it made which should be around thursday this week as I did not have enough time in class. This puts me slightly behind <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Power%20Switch%20Project%20Schedule.pdf ">Schedule </a>. In terms of my <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">Budget </a>, everything stayed the same. Once I get the enclosure done, I can start working on my powerpoint presentation.
 
