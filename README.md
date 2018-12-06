@@ -38,6 +38,13 @@ You can wire the CAP 1188 Breakout to the Raspberry Pi using the following chart
 | 5 (RST)                                        | [BCM 17]     |
 | 6 (AD) Connected to 3 200k Resistors in Series | [Ground]     |
 
+This is how it would look connected to the pi.
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/BreadBoardWiring.jpg)
+
+This would be with the 3 200k resistors connected to pin AD
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/IMG_0882.jpg)
+
+
 ### PCB Design Files
 
 ### Assembly for Hardware
