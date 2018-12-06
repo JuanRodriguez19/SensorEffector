@@ -27,6 +27,11 @@ The required materials and budget for this project can be found in the documenta
 Realistically, this project should take roughly a weekend to complete if all materials and facilites are available to you. The materials themselves might take a week to arrive due to shipping, but the actual proccess of assembling and programming should not take longer than 3 days. A couple of hours each day can be dedicated towards the different aspects of the project to make time usuage more efficient and effective.
 
 ### Wiring
+Before wiring the sensor to the breadboard, it is important to solder the pins that come included to the sensors corresponding pin layouts. Addtionally, make sure to cut 3 pins off each set of pin rows as those are extra pins not required. 
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SensorPins.JPG)
+
+When soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
+
 You can wire the CAP 1188 Breakout to the Raspberry Pi using the following chart. The AD and RST pins are optional, but in this case the AD pin is mandatory as it is used to achieve the address (0x2A).
 
 | Device Pin                                     | Pi           |
@@ -69,7 +74,9 @@ The Gerber files are located and can be downloaded <a href = "https://github.com
 
 ### Assembly for Hardware
 
+
 ### PCB Soldering
+Before soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
 
 ### Power Up
 
