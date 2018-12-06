@@ -23,6 +23,14 @@ The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communica
 
 ### Wiring
 
+| Device Pin | Pi           |
+| ---------- | ------------ |
+| 1 (GND)    | [Ground]     |
+| 2 (VIN)    | [3.3v]       |
+| 3 (SDA)    | [BCM 2/SDA]  |
+| 4 (SCK)    | [BCM 3/SCL]  |
+| RST        | [BCM 17]     |
+
 ### PCB Design Files
 
 ### Assembly for Hardware
