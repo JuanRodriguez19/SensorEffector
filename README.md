@@ -37,10 +37,10 @@ https://www.youtube.com/watch?v=3230nCz3XQA
 
 The Sensor should now look like this:<br>
 
-Bottom View
+Bottom View <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens.JPG) <br>
 
-Top View
+Top View <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens2.JPG) <br>
 
 You can wire the CAP 1188 Breakout to the Raspberry Pi using the following chart. The AD and RST pins are optional, but in this case the AD pin is mandatory as it is used to achieve the address (0x2A).
