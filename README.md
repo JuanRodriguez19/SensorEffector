@@ -23,6 +23,8 @@ The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communica
 
 ### Wiring
 
+You can wire the CAP 1188 Breakout to the Raspberry Pi using the following chart. The AD and RST pins are optional, but in this case the AD pin is mandatory as it is used to achieve th address (0x2A).
+
 | Device Pin                                     | Pi           |
 | ---------------------------------------------- | ------------ |
 | 1 (GND)                                        | [Ground]     |
