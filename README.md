@@ -3,7 +3,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Budget for Materials Required](#budget for materials-required)
+2. [Budget for Materials Required](#budget-for-materials-required)
 3. [Time Schedule](#time-schedule)
 4. [Wiring](#wiring)
 5. [PCB Design Files](#pcb-design-files)
