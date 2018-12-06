@@ -48,6 +48,13 @@ This would be with the 3 200k resistors connected to pin AD
 ### PCB Design Files
 In order to develop the PCB design files, the appilcation Fritzing is required along with the CAP 1188 Sensor file which must be added to the application. The file can be downloaded <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Adafruit%20CAP1188%20-%208-Key%20Capacitive%20Touch%20Sensor%20Breakout%20(1).fzpz">Here</a>
 
+Once the Sensor is added to parts, you can create a frizting diagram for the wiring of the pi and sensor. It should look similar to this.
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_bb.png)
+
+From here you can create the PCB design from the wiring you just designed. The PCB layout should look similar to this.
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png)
+
+
 
 ### Assembly for Hardware
 
