@@ -18,6 +18,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 
 ### Introduction
 The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout).
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/UML.JPG)
 
 ### Budget for Materials Required
 The required materials and budget for this project can be found in the documentation folder in this repository or in this link provided.
