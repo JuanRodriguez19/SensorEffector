@@ -30,7 +30,7 @@ Realistically, this project should take roughly a weekend to complete if all mat
 Before wiring the sensor to the breadboard, it is important to solder the pins that come included to the sensors corresponding pin layouts. Addtionally, make sure to cut 3 pins off each set of pin rows as those are extra pins not required. 
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SensorPins.JPG)
 
-When soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
+When soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes. A soldering toolkit is also required which is available in most labs.
 Here a is great soldering tutorial to help with those unsure.<br>
 https://www.youtube.com/watch?v=3230nCz3XQA
 
@@ -83,7 +83,13 @@ The Gerber files are located and can be downloaded <a href = "https://github.com
 
 
 ### PCB Soldering
-Before soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
+Using the same rules as when soldering the Sensor, solder pieces of wire in between the 6 vias on the PCB board. Once thats done, solder the 20 pin socket to the PCB board to the corresonding holes for where the pi would connect. For the other 2 20 pin sockets you have, remove 4 pins from each side with a pair of tweezers so that it can match up with the holes in the sensors location. Lastly solder the 3 resistors in their correct locations according to your PCB design files. Your final board should look similar to this.
+
+Top view with sensor connected:
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png)
+
+Bottom view:
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png)
 
 ### Power Up
 
