@@ -31,7 +31,13 @@ Before wiring the sensor to the breadboard, it is important to solder the pins t
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SensorPins.JPG)
 
 When soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
-Here a is great soldering tutorial to help with those unsure. https://www.youtube.com/watch?v=3230nCz3XQA
+Here a is great soldering tutorial to help with those unsure.
+https://www.youtube.com/watch?v=3230nCz3XQA
+
+The Sensor should now look like this
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens.JPG)
+
+![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens2.JPG)
 
 You can wire the CAP 1188 Breakout to the Raspberry Pi using the following chart. The AD and RST pins are optional, but in this case the AD pin is mandatory as it is used to achieve the address (0x2A).
 
