@@ -1,6 +1,8 @@
 # SensorEffector
 CAP1188 8-channel Capacitive Touch (0x2A).
 
+![image of sensor] (https://github.com/JuanRodriguez19/SensorEffector/blob/master/TouchSensor.PNG)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Budget for Materials Required](#budget-for-materials-required)
