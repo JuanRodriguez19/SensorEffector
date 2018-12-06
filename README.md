@@ -52,6 +52,7 @@ Once the Sensor is added to parts, you can create a frizting diagram for the wir
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_bb.png)
 
 From here you can create the PCB design from the wiring you just designed. The PCB layout should look similar to this.
+
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png)
 
 
