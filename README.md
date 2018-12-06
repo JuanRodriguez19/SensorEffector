@@ -55,6 +55,8 @@ From here you can create the PCB design from the wiring you just designed. The P
 
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TouchSensor_pcb.png)
 
+With these now ready, you can put together your Gerber files and create your PCB using a lazer cutter machine.
+The Gerber files are located and downloaded <a href = "https://github.com/JuanRodriguez19/SensorEffector/tree/master/Gerber">Here</a>
 
 
 ### Assembly for Hardware
