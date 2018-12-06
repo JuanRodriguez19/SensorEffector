@@ -31,7 +31,7 @@ The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communica
 
 ### Power Up
 
-### Testing for Hardware
+### Testing of Hardware
 
 ### Enterprizing Wifi
 
