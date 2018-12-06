@@ -31,10 +31,10 @@ Before wiring the sensor to the breadboard, it is important to solder the pins t
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SensorPins.JPG)
 
 When soldering, make sure you have safetly glasses equipped along with having proper ventilation that contains a extractor arm for the fumes.
-Here a is great soldering tutorial to help with those unsure.
+Here a is great soldering tutorial to help with those unsure.<br>
 https://www.youtube.com/watch?v=3230nCz3XQA
 
-The Sensor should now look like this
+The Sensor should now look like this. <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens.JPG)
 
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/SolderingSens2.JPG)
