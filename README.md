@@ -139,7 +139,7 @@ If you do see the same address of (0x2a), then we are able to move onto designin
 
 
 ### Case Design 
-For the case design, Corel Draw was used to design the layout for how the case should appear. Many considerations for the size of the sensor and PCB we required as dimensions needed to be exact. 
+For the case design, Corel Draw was used to design the layout for how the case should appear. Many considerations for the size of the sensor and PCB we required as the dimensions needed to be exact. Hereare the files for the design of case 
 
 ### Assembly for Hardware
 
