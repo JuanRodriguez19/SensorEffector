@@ -24,8 +24,8 @@ The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communica
 
 ### Budget for Materials Required
 The required materials and budget for this project can be found in the documentation folder in this repository or in this link provided.
-<a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">[Budget]</a> <b>
- ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Budget.JPG)
+<a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">[Budget]</a>
+ 
 
 
 ### Time Schedule
