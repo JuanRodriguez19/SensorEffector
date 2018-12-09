@@ -139,8 +139,10 @@ If you do see the same address of (0x2a), then we are able to move onto designin
 
 
 ### Case Design 
-For the case design, Corel Draw was used to design the layout for how the case should appear. Many considerations for the size of the sensor and PCB we required as the dimensions needed to be exact. Here are the design files of case:
+For the case design, Corel Draw was used to design the layout for how the case should appear. Many considerations for the size of the sensor and PCB we required as the dimensions needed to be exact. Here are the <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Pi2CaseX6.cdr">design files</a> of the case:
 <br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Case.JPG)
+
+The case is created by cutting pieces of acrylic using a lazer cutter from the Prototype lab in Humber College. 
 
 
 ### Assembly for Hardware
