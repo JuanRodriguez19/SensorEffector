@@ -15,7 +15,8 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 9. [Case Design](#case-design)
 10. [Assembly for Hardware](#assembly-for-hardware)
 11. [Testing](#testing)
-12. [Enterprizing Wifi](#enterprizing-wifi)
+12. [Reproduction of Project](#reproduction-of-project)
+13. [Enterprizing Wifi](#enterprizing-wifi)
 
 
 ### Introduction
@@ -183,8 +184,12 @@ Now the sensor will be able to detect the readings when a pin comes under contac
             	print("Pin {} touched!".format(i))
 	```
 
-Run this code and your output should display which pins are being touched in real time.
+Run this code and your output should display which pins are being touched in real time. <br>
 <br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Output.JPG) <br>
+
+Now the sensor is all set up and your right on track. 
+
+### Reproduction of Project
 
 
 ### Enterprizing Wifi
