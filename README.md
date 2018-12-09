@@ -7,13 +7,14 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 1. [Introduction](#introduction)
 2. [Budget for Materials Required](#budget-for-materials-required)
 3. [Time Schedule](#time-schedule)
-4. [Wiring](#wiring)
-5. [PCB Design Files](#pcb-design-files)
-6. [Assembly for Hardware](#assembly-for-hardware)
-7. [PCB Soldering](#pcb-soldering)
-8. [Power Up](#power-up)
-9. [Testing of Hardware](#testing-of-hardware)
-10. [Enterprizing Wifi](#enterprizing-wifi)
+4. [Assembly of Pi](#assembly-of-pi)
+5. [Wiring](#wiring)
+6. [PCB Design Files](#pcb-design-files)
+7. [Assembly for Hardware](#assembly-for-hardware)
+8. [PCB Soldering](#pcb-soldering)
+9. [Power Up](#power-up)
+10. [Testing of Hardware](#testing-of-hardware)
+11. [Enterprizing Wifi](#enterprizing-wifi)
 
 
 ### Introduction
@@ -25,8 +26,11 @@ The required materials and budget for this project can be found in the documenta
 <a href = "https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PowerSwitchBudget.pdf">[Budget]</a>
 
 ### Time Schedule
-Realistically, this project should take roughly a weekend to complete if all materials and facilites are available to you. The materials themselves might take a week to arrive due to shipping, but the actual proccess of assembling and programming should not take longer than 3 days. A couple of hours each day can be dedicated towards the different aspects of the project to make time usuage more efficient and effective. For me, this project took around 1 whole semester (4 months) to finish along with an average work time of around 2.5 hours a week. Here is the time schedule I followed:
+Realistically, this project should take roughly a weekend to complete if all materials and facilites are available to you. The materials themselves might take a week to arrive due to shipping, but the actual proccess of assembling and programming should not take longer than 3 days. A couple of hours each day can be dedicated towards the different aspects of the project to make time usuage more efficient and effective. For me, this project took around 1 whole semester (4 months) to finish along with an average work time of around 2.5 hours a week. Here is the time schedule I followed: <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TimeCommit.JPG)
+
+### Assembly of Pi
+
 
 ### Wiring
 Before wiring the sensor to the breadboard, it is important to solder the pins that come included to the sensors corresponding pin layouts. Addtionally, make sure to cut 3 pins off each set of pin rows as those are extra pins not required. 
