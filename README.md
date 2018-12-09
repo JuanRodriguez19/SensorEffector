@@ -146,8 +146,8 @@ The case is created by cutting pieces of acrylic using a lazer cutter from the P
 
 
 ### Assembly for Hardware
-Now it is time to place the Pi and the sensor in the case we created from the last step. To assemble the case is pretty simple as each corner just snaps together perfectly. For the bottom of the case with the Pi, screw in 4 small screws of any size to the 4 holes in each corner of the Pi to add a little bit of space inbetween them. First build the case around the Pi and leave the sensor for last as it just goes over the top of the case. When put togther the case should look like this:
-<br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/CaseCloseView.JPG)
+Now it is time to place the Pi and the sensor in the case we created from the last step. To assemble the case is pretty simple as each corner just snaps together perfectly. For the bottom of the case with the Pi, screw in 4 small screws of any size to the 4 holes in each corner of the Pi to add a little bit of space inbetween them. First build the case around the Pi and leave the sensor for last as it just goes over the top of the case. When put togther the case should look like this: <br>
+<br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/CaseCloseView.JPG) <br>
 
 ### Testing of Hardware
 
