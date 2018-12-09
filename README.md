@@ -190,7 +190,7 @@ Run this code and your output should display which pins are being touched in rea
 Now the sensor is all set up and your right on track. 
 
 ### Reproduction of Project
-
+If you are to follow these steps exactly as explained in this guide, you should be able to reproduce this project without any diffculties considering you have the necessary equipment and tools.  
 
 ### Enterprizing Wifi
 
