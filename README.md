@@ -12,7 +12,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 6. [PCB Design Files](#pcb-design-files)
 7. [PCB Soldering](#pcb-soldering)
 8. [Power Up](#power-up)
-9.[Case Design](#case-design)
+9. [Case Design](#case-design)
 10. [Assembly for Hardware](#assembly-for-hardware)
 11. [Testing of Hardware](#testing-of-hardware)
 12. [Enterprizing Wifi](#enterprizing-wifi)
