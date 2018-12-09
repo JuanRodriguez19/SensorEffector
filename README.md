@@ -126,7 +126,7 @@ Bottom view: <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PcbBottom.JPG)
 
 ### Power Up
-Now connect the PCB board with the sensor attached to the Rasberry Pi's 20 pin slot. Once it is connected, boot up the Pi and follow these steps:
+Now connect the PCB board with the sensor attached to the Raspberry Pi's 20 pin slot. Once it is connected, boot up the Pi and follow these steps:
 
 1. We need to enable IC2 communication so open your terminal and type `sudo raspi-config`.
 
@@ -139,6 +139,7 @@ If you do see the same address of (0x2a), then we are able to move onto designin
 
 
 ### Case Design 
+For the case design, Corel Draw was used to design the layout for how the case should appear. Many considerations for the size of the sensor and PCB we required as dimensions needed to be exact. 
 
 ### Assembly for Hardware
 
