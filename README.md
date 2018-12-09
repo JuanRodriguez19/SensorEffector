@@ -30,6 +30,24 @@ Realistically, this project should take roughly a weekend to complete if all mat
 <br> ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TimeCommit.JPG)
 
 ### Assembly of Pi
+These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you have the ability to log in test your sensors capabilites.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
 
 
 ### Wiring
