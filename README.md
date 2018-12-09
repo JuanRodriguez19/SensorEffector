@@ -149,7 +149,42 @@ The case is created by cutting pieces of acrylic using a lazer cutter from the P
 Now it is time to place the Pi and the sensor in the case we created from the last step. To assemble the case is pretty simple as each corner just snaps together perfectly. For the bottom of the case with the Pi, screw in 4 small screws of any size to the 4 holes in each corner of the Pi to add a little bit of space inbetween them. First build the case around the Pi and leave the sensor for last as it just goes over the top of the case. When put togther the case should look like this: <br>
 <br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/CaseCloseView.JPG) <br>
 
-### Testing of Hardware
+### Testing
+In order to test the sensor, we will need to work with CircuitPython and Adafruit has a great instalation tutorial that was followed for this exact Project. It can be found here: https://learn.adafruit.com/adafruit-cap1188-breakout/python-circuitpython. The website also has a Arduino guide, but in this case we are working with the Pi setup. All required libraries to download are also listed. Once the setup for CircuitPython is finished, we need to initialize the sensor with the boards Python REPL using the following code. Create a new file and call it Initialize.py
+
+	```
+	import board
+	import busio
+	from adafruit_cap1188.i2c import CAP1188_I2C
+	i2c = busio.I2C(board.SCL, board.SDA)
+	cap = CAP1188_I2C(i2c)
+	```
+Now the sensor will be able to detect the readings when a pin comes under contact. Run the code in the file cap1188_simpletest.py found in the cap1188 library you downloaded. It should look like this:
+
+	```
+	import board
+	import busio
+
+	# I2C setup
+	from adafruit_cap1188.i2c import CAP1188_I2C
+	i2c = busio.I2C(board.SCL, board.SDA)
+	cap = CAP1188_I2C(i2c)
+
+	# SPI setup
+	# from digitalio import DigitalInOut, Direction
+	# from adafruit_cap1188.spi import CAP1188_SPI
+	# spi = busio.SPI(board.SCK, board.MOSI, board.MISO)
+	# cs = DigitalInOut(board.D5)
+	# cap = CAP1188_SPI(spi, cs)
+
+	while True:
+    		for i in range(1, 9):
+        	if cap[i].value:
+            	print("Pin {} touched!".format(i))
+	```
+
+
+
 
 ### Enterprizing Wifi
 
