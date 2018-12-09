@@ -50,10 +50,13 @@ These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you 
 	/home/pi/hshcribv01.sh  
 	```
 
-7. Now it is time to set up a VNC connection so that you can access your Pi on any computer screen. From the Start Menu, go -> Preferences->Raspberry Pi Configuration->Interfaces, then set VNC to Enabled. Now on the destop in the top right corner, you should see a VNC logo. When you click it you should see an IP address for your Pi which will be used to connect it via the VNC software. Download the software on any computer you wish to communicate with the Pi:s://www.realvnc.com/en/connect/download/vnc/ 
+7. Now it is time to set up a VNC connection so that you can access your Pi on any computer screen. From the Start Menu, go -> Preferences->Raspberry Pi Configuration->Interfaces, then set VNC to Enabled. Now on the destop in the top right corner, you should see a VNC logo. When you click it you should see an IP address for your Pi which will be used to connect it via the VNC software. Download the software on any computer you wish to communicate with the Pi: https://www.realvnc.com/en/connect/download/vnc/
 
-8. If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthinf required:https://www.youtube.com/watch?v=xBlxuf_LSCM
+8. Once the software is installed, connect the ethernet cable from the Pi to your computer of choice to have a direct connection. Now you can simply input the same address you found in the Pi in the VNC software and it should connect.
 
+9. To turn off the Pi, type `sudo powerdown` in the terminal. 
+
+If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthinf required: https://www.youtube.com/watch?v=xBlxuf_LSCM
 
 
 ### Wiring
