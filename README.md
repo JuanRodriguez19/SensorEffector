@@ -10,11 +10,12 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 4. [Assembly of Pi](#assembly-of-pi)
 5. [Wiring](#wiring)
 6. [PCB Design Files](#pcb-design-files)
-7. [Assembly for Hardware](#assembly-for-hardware)
-8. [PCB Soldering](#pcb-soldering)
-9. [Power Up](#power-up)
-10. [Testing of Hardware](#testing-of-hardware)
-11. [Enterprizing Wifi](#enterprizing-wifi)
+7. [PCB Soldering](#pcb-soldering)
+8. [Power Up](#power-up)
+9.[Case Design](#case-design)
+10. [Assembly for Hardware](#assembly-for-hardware)
+11. [Testing of Hardware](#testing-of-hardware)
+12. [Enterprizing Wifi](#enterprizing-wifi)
 
 
 ### Introduction
@@ -114,10 +115,6 @@ From here you can create the PCB design from the wiring you just designed. The P
 With these now ready, you can put together your Gerber files and create your PCB using a lazer cutter machine.
 The Gerber files are located and can be downloaded <a href = "https://github.com/JuanRodriguez19/SensorEffector/tree/master/Gerber">Here</a>
 
-
-### Assembly for Hardware
-
-
 ### PCB Soldering
 Using the same rules as when soldering the Sensor, solder pieces of wire in between the 6 vias on the PCB board. Once thats done, solder the 20 pin socket to the PCB board to the corresonding holes for where the pi would connect. For the other 2 20 pin sockets you have, remove 4 pins from each side with a pair of tweezers so that it can match up with the holes in the sensors location. Lastly solder the 3 resistors in their correct locations according to your PCB design files. Your final board should look similar to this.
 
@@ -128,6 +125,10 @@ Bottom view: <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PcbBottom.JPG)
 
 ### Power Up
+
+### Case Design 
+
+### Assembly for Hardware
 
 ### Testing of Hardware
 
