@@ -19,7 +19,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 
 
 ### Introduction
-The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout).Here is a system diagram for the project. <br>
+The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout). Here is a system diagram for the project. <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/UML.JPG)
 
 ### Budget for Materials Required
@@ -126,6 +126,17 @@ Bottom view: <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/PcbBottom.JPG)
 
 ### Power Up
+Now connect the PCB board with the sensor attached to the Rasberry Pi's 20 pin slot. Once it is connected, boot up the Pi and follow these steps:
+
+1. We need to enable IC2 communication so open your terminal and type `sudo raspi-config`.
+
+2. Select Interface Options, go to IC2 and select "Enable". Then click Finish.
+
+3. Now we can test to see if the sensor can communicate with the Pi. In the terminal, type `sudo i2cdetect -y 1` and you should see a similar screen: <br>
+<br> ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Capture.PNG)
+
+If you do see the same address of (0x2a), then we are able to move onto designing a case for the Pi and sensor. 
+
 
 ### Case Design 
 
