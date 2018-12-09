@@ -14,7 +14,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 8. [Power Up](#power-up)
 9. [Case Design](#case-design)
 10. [Assembly for Hardware](#assembly-for-hardware)
-11. [Testing of Hardware](#testing-of-hardware)
+11. [Testing](#testing)
 12. [Enterprizing Wifi](#enterprizing-wifi)
 
 
