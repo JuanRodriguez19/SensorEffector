@@ -30,13 +30,13 @@ Realistically, this project should take roughly a weekend to complete if all mat
 <br> ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TimeCommit.JPG)
 
 ### Assembly of Pi
-These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you have the ability to log in test your sensors capabilites.
+These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you have the ability to log in and test your sensors capabilites.
 
-1.
+1. Format an SD card with a minimum of 8GB to be used for the OS of the Pi. You can use the following link to download a SD card formatting software:https://www.sdcard.org/downloads/formatter_4/index.html
 
-2.
+2. Download and unzip the latest version of the OS for the Raspberry Pi to your SD card. Download NOOBS in the link as that will ensure that you will have almost everything required when starting:https://www.raspberrypi.org/downloads/noobs/   
 
-3.
+3. Once the image is on the SD card, remove it from the pc and insert it in the Pi. Now plug in a seperate monitor, mouse, keyboard, HDMI, ethernet cable, and power supply to the Pi in their corresponding ports. The Pi turns on automatically when the power is plugged in.
 
 4.
 
