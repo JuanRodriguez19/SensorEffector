@@ -18,7 +18,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 
 
 ### Introduction
-The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout).
+The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout). Here is a system diagram for the project.
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/UML.JPG)
 
 ### Budget for Materials Required
@@ -32,9 +32,9 @@ Realistically, this project should take roughly a weekend to complete if all mat
 ### Assembly of Pi
 These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you have the ability to log in and test your sensors capabilites.
 
-1. Format an SD card with a minimum of 8GB to be used for the OS of the Pi. You can use the following link to download a SD card formatting software:https://www.sdcard.org/downloads/formatter_4/index.html
+1. Format an SD card with a minimum of 8GB to be used for the OS of the Pi. You can use the following link to download a SD card formatting software: https://www.sdcard.org/downloads/formatter_4/index.html
 
-2. Download and unzip the latest version of the OS for the Raspberry Pi to your SD card. Download NOOBS in the link as that will ensure that you will have almost everything required when starting:https://www.raspberrypi.org/downloads/noobs/   
+2. Download and unzip the latest version of the OS for the Raspberry Pi to your SD card. Download NOOBS in the link as that will ensure that you will have almost everything required when starting: https://www.raspberrypi.org/downloads/noobs/   
 
 3. Once the image is on the SD card, remove it from the pc and insert it in the Pi. Now plug in a seperate monitor, mouse, keyboard, HDMI, ethernet cable, and power supply to the Pi in their corresponding ports. The Pi turns on automatically when the power is plugged in.
 
@@ -42,7 +42,7 @@ These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you 
 
 5. Once installation is completed, you should be brought to the desktop. Connect yourself to either Wifi or wired connection in order to perform the next few steps.
 
-6. Open the terminal in the top left corner of the screen in input the following lines:
+6. Open the terminal in the top left corner of the screen and input the following lines (this takes quite a long time):
 	```Shell
 	wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
 	-O /home/pi/hshcribv01.sh  
@@ -50,7 +50,7 @@ These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you 
 	/home/pi/hshcribv01.sh  
 	```
 
-7.
+7. Now it is time to set up a VNC connection so that you can access your Pi on any computer screen. From the Start Menu, go -> Preferences->Raspberry Pi Configuration->Interfaces, then set VNC to Enabled. Now on the destop in the top right corner, you should see a VNC logo. When you click it you should see an IP address for your Pi which will be used to connect it via the VNC software. Download the software on any computer you wish to communicate with the Pi:s://www.realvnc.com/en/connect/download/vnc/ 
 
 8. If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthinf required:https://www.youtube.com/watch?v=xBlxuf_LSCM
 
