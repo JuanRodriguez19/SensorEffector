@@ -27,7 +27,7 @@ The required materials and budget for this project can be found in the documenta
 
 ### Time Schedule
 Realistically, this project should take roughly a weekend to complete if all materials and facilites are available to you. The materials themselves might take a week to arrive due to shipping, but the actual proccess of assembling and programming should not take longer than 3 days. A couple of hours each day can be dedicated towards the different aspects of the project to make time usuage more efficient and effective. For me, this project took around 1 whole semester (4 months) to finish along with an average work time of around 2.5 hours a week. Here is the time schedule I followed: <br>
-![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TimeCommit.JPG)
+<br> ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/TimeCommit.JPG)
 
 ### Assembly of Pi
 
