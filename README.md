@@ -38,15 +38,21 @@ These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you 
 
 3. Once the image is on the SD card, remove it from the pc and insert it in the Pi. Now plug in a seperate monitor, mouse, keyboard, HDMI, ethernet cable, and power supply to the Pi in their corresponding ports. The Pi turns on automatically when the power is plugged in.
 
-4.
+4. Upon the boot up session, select Raspbian as the operating system for the Pi and follow the instructions as they appear. You may also change the keyboard layout on the bottom during intial boot. The US layout is highly reccommended.
 
-5.
+5. Once installation is completed, you should be brought to the desktop. Connect yourself to either Wifi or wired connection in order to perform the next few steps.
 
-6.
+6. Open the terminal in the top left corner of the screen in input the following lines:
+	```Shell
+	wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
+	-O /home/pi/hshcribv01.sh  
+	chmod u+x /home/pi/hshcribv01.sh  
+	/home/pi/hshcribv01.sh  
+	```
 
 7.
 
-8.
+8. If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthinf required:https://www.youtube.com/watch?v=xBlxuf_LSCM
 
 
 
