@@ -183,7 +183,8 @@ Now the sensor will be able to detect the readings when a pin comes under contac
             	print("Pin {} touched!".format(i))
 	```
 
-
+Run this code and your output should display which pins are being touched in real time.
+<br>![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Output.JPG) <br>
 
 
 ### Enterprizing Wifi
