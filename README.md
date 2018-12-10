@@ -20,7 +20,7 @@ CAP1188 8-channel Capacitive Touch (0x2A).
 
 
 ### Introduction
-The CAP 1188 breakout is a 8-channel capacitive touch sensor. With IC2 communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout). Here is a system diagram for the project. <br>
+The CAP 1188 breakout is a 8-channel capacitive touch sensor. With I2C communication enabled, the breakout board is able to detect readings from its corresponding pins when they are being touched by users. This project consists of using the Touch Sensor with a Raspberry Pi 3 B+ to detect the readings from the sensor itself and have the lights from each pin illuminate. All information regarding the breakout board can be found [In the Adafruit CAP1188 website](https://learn.adafruit.com/adafruit-cap1188-breakout). Here is a system diagram for the project. <br>
 ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/UML.JPG)
 
 ### Budget for Materials Required
@@ -59,7 +59,7 @@ These steps will cover how to set up the Raspberry Pi 3 B+ properly so that you 
 
 9. To turn off the Pi, type `sudo powerdown` in the terminal. 
 
-If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthinf required: https://www.youtube.com/watch?v=xBlxuf_LSCM
+If you are still unsure or struggling with a part in particular, this video provides a step by step explanation for everthing required: https://www.youtube.com/watch?v=xBlxuf_LSCM
 
 
 ### Wiring
