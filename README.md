@@ -129,9 +129,9 @@ Bottom view: <br>
 ### Power Up
 Now connect the PCB board with the sensor attached to the Raspberry Pi's 20 pin slot. Once it is connected, boot up the Pi and follow these steps:
 
-1. We need to enable IC2 communication so open your terminal and type `sudo raspi-config`.
+1. We need to enable I2C communication so open your terminal and type `sudo raspi-config`.
 
-2. Select Interface Options, go to IC2 and select "Enable". Then click Finish.
+2. Select Interface Options, go to I2C and select "Enable". Then click Finish.
 
 3. Now we can test to see if the sensor can communicate with the Pi. In the terminal, type `sudo i2cdetect -y 1` and you should see a similar screen: <br>
 <br> ![imageofsensor](https://github.com/JuanRodriguez19/SensorEffector/blob/master/Documentation/Capture.PNG)
